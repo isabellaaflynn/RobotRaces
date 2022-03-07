@@ -7,7 +7,7 @@ For our knocking over mechanism, we utilized a wooden dowel attached to a servo 
 ![image](https://user-images.githubusercontent.com/90297435/157105805-14c83657-4ab9-4b5e-94ad-c1490214c70d.png)
 
 # Design for cap retrieval: 
-We used the exact same method as we did for the previous challenge, but with an improved design based on the downfalls of the old design. Basically, because the robot is at a slight angle downward, our previous hook had a space in the back where the cap could fall through. We resolved this error and the new hook now sits at an angle that allows its entirety to be on the ground. We also made the hooks mouth smaller because we noticed last challenge that it tended to slip out if the robot made a sudden movement, which happened a lot with out joystick. 
+We used the exact same method as we did for the previous challenge, but with an improved design based on the downfalls of the old design. Basically, because the robot is at a slight angle downward, our previous hook had a space in the back where the cap could fall through. We resolved this error and the new hook now sits at an angle that allows its entirety to be on the ground. We also made the hooks mouth smaller because we noticed last challenge that it tended to slip out if the robot made a sudden movement, which happened a lot with our joystick. 
 ![image](https://user-images.githubusercontent.com/90297435/157106299-2ed8a6fc-1c5c-4424-827c-70475e98866e.png)
 
 # Explanation of Software/ Code:
