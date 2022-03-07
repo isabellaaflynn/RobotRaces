@@ -14,7 +14,7 @@ We used the exact same method as we did for the previous challenge, but with an 
 Because our joystick method was far from ideal, we decided to make the move to bluetooth as fast as possible. In order to establish a connection between the arduino and the phone, we used an HM 10 bluetooth chip. Check it out here: https://www.amazon.com/DSD-TECH-Bluetooth-iBeacon-Arduino/dp/B06WGZB2N4?ref_=ast_sto_dp
 ![image](https://user-images.githubusercontent.com/90297435/157107163-93bfca68-71d4-455b-b1d4-cbe2eebb3030.png)
 
-However, the accompanying app was difficult to work with, so we utilized a different app with a gaming pad UI. Check it out here: https://thestempedia.com/docs/dabble/getting-started-with-dabble/
+However, the DSD TECH accompanying app was difficult to work with, so we utilized a different app with a gaming pad UI. Check it out here: https://thestempedia.com/docs/dabble/getting-started-with-dabble/
 The library that came with this app was also surprisingly simple, with functions like ifUpPressed(). This made coding the app's joystick incredibly simple.
 
 # LOOK AT HER IN ACTION!
