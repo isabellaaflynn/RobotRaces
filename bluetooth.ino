@@ -39,7 +39,7 @@ Dabble.processInput();  // This line is crucial in grabbing our data
     analogWrite(enA, 255);
     digitalWrite(in1, LOW);
     digitalWrite(in2, HIGH);
-    analogWrite(enB, 160);
+    analogWrite(enB, 255);
     digitalWrite(in3, LOW);
     digitalWrite(in4, HIGH);
   }
@@ -50,7 +50,7 @@ Dabble.processInput();  // This line is crucial in grabbing our data
     analogWrite(enA, 255);
     digitalWrite(in1, HIGH);
     digitalWrite(in2, LOW);
-    analogWrite(enB, 160);
+    analogWrite(enB, 255);
     digitalWrite(in3, HIGH);
     digitalWrite(in4, LOW);
   }
@@ -61,7 +61,7 @@ Dabble.processInput();  // This line is crucial in grabbing our data
     analogWrite(enA, 255);
     digitalWrite(in1, HIGH);
     digitalWrite(in2, LOW);
-    analogWrite(enB, 160);
+    analogWrite(enB, 255);
     digitalWrite(in3, LOW);
     digitalWrite(in4, HIGH);
   }
@@ -72,7 +72,7 @@ Dabble.processInput();  // This line is crucial in grabbing our data
     analogWrite(enA, 255);
     digitalWrite(in1, LOW);
     digitalWrite(in2, HIGH);
-    analogWrite(enB, 160);
+    analogWrite(enB, 255);
     digitalWrite(in3, HIGH);
     digitalWrite(in4, LOW);
   }
